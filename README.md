@@ -9,10 +9,10 @@
     - 可以根据用户提供的UUID、Major、Minor信息，添加到管理页面中
     - 各级用户均可在自己权限内发布对应IBeacon设备的页面信息
 - 开发环境
-    - JSP服务器：tomcat8.x
-    - Java版本：jdk1.8
-    - 开发工具：IntelliJ idea或eclipse
-    - 项目管理：Maven3.x
+    - 版本控制：github
+    - 版本控制：github
+    - 版本控制：github
+    - 版本控制：github
     - 版本控制：github
     
 
