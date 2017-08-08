@@ -1,5 +1,6 @@
 # IBeaconManagement
 <h3>实现对IBeacon设备的管理及服务提供</h3>
+<br>
 * 系统功能<br>
   * 建立IBeacon业务管理网站，提供类似博客网站形式的网页服务，用户可以在其上发布对应IBeacon设备的内容信息，包括文字、图片、声音及视频等。<br>
   * 使用支持BLE4.0 的手机扫描到周围的IBeacon设备后，向服务器发出请求，服务器返回对应的IBeacon设备UUID、Major、Minor信息的网页。<br>
