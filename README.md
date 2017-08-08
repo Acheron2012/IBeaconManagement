@@ -1,0 +1,2 @@
+# IBeaconManagement
+实现对IBeacon设备的管理及服务提供
